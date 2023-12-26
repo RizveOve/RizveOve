@@ -2,9 +2,9 @@
 
 International Masters student at [University of Oslo](https://www.uio.no/), I am also a web developer with a strong background and skilled in various technologies.
 
+I'm a dedicated and passionate software developer doing a Master's degree in Informatics from the University of Oslo with a Bachelor's in Computer Science and Engineering. My journey in tech has been driven by a deep interest in creating impactful solutions, especially in the areas of web development. I'm proficient in languages like Javascript, Python, Java, and I'm well-versed in technologies such as React and Node.js. My academic and professional experiences have equipped me with a versatile skill set and a problem-solving mindset. I thrive on challenges and am always eager to contribute to projects that not only push the boundaries of technology but also have a meaningful impact on people's lives. Welcome to my GitHub page.
+
 ## 🌐 You can find me around the web:
-
-
 - Stay connected on [LinkedIn](https://www.linkedin.com/in/mdrizvehasan/)
 - See my thought on [X](https://twitter.com/Rizve_Ove)
 - Reach me on **thisisrizve@gmail.com**
