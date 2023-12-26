@@ -1,14 +1,13 @@
-# Hi there, I'm M Mainul Hasan 👋
+# Hi there, I'm Rizve Hasan 👋
 
-Currently serving as a Teaching Assistant and pursuing my MS in Informatics at the University of Oslo, I also have a strong background as a Full Stack Developer skilled in various technologies.
+International Masters student at University of Oslo (UiO), I am also a web developer with a strong background and skilled in various technologies.
 
 ## 🌐 You can find me around the web:
 
-- Sharing my code and helping others on [Stack Overflow](https://stackoverflow.com/users/16927242)
-- Showcasing my personal projects and writing about web development on [webdevstory.com](http://www.webdevstory.com)
-- Providing tips and advice on digital nomad lifestyle on [digitalnomadhack.com](http://www.digitalnomadhack.com)
-- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/mmainulhasan)
-- Check out my personal site at [mmainulhasan.com](http://www.mmainulhasan.com)
+
+- Stay connected on [LinkedIn](https://www.linkedin.com/in/mdrizvehasan/)
+- See my thought on [X](https://twitter.com/Rizve_Ove)
+
 
 ## 🛠 Skills:
 
