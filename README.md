@@ -20,7 +20,7 @@ International Masters student at [University of Oslo](https://www.uio.no/), I am
 - **Languages:** English (C1), Bengali (Native)
 
 ## 🎓 Education:
-Pursuing an **MS in Programming and system architecture**, [University of Oslo](https://www.uio.no/), focusing on Development in platforms and ecosystems, Agile Software Engineering, Software Testing, and IT Management.
+Pursuing an **MS in Programming and system architecture** from [University of Oslo](https://www.uio.no/), focusing on Development in platforms and ecosystems, Agile Software Engineering, Software Testing, and IT Management.
 
 ## 💼 Work Experience:
 
